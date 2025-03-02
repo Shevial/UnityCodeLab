@@ -1,0 +1,33 @@
+# Archivos generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/Assets/AssetStoreTools*
+
+# Archivos de proyecto y consola
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+# Archivos binarios y assets temporales
+*.apk
+*.unitypackage
+*.a
+*.mdb
+*.pdb
+*.assetbundle
+
+# Configuración de editores
+.vs/
+.idea/
+
+# Archivos específicos de GitKraken
+.gitkraken/
